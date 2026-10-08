@@ -1,0 +1,9 @@
+{
+  "name": "rpko-server",
+  "version": "0.2.0",
+  "description": "Serveur relais de Rock, Paper, KO! : salons à code, relais des choix entre 2 joueurs.",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "ws": "^8.18.0" }
+}
